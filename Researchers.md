@@ -20,6 +20,7 @@ Sources:
       * [Ce Liu](http://people.csail.mit.edu/celiu/) (Google Research)
       * [Michael Rubinstein](http://people.csail.mit.edu/mrub/) (Google Research)
       * [Bryan Russell](http://homes.cs.washington.edu/~bcr/) (Adobe Research)
+      * [Jue Wang](http://www.juew.org/default.htm) (Adobe)
       * [Barun Singh](http://barunsingh.com/)
       * [Erik B. Sudderth](http://cs.brown.edu/people/sudderth/) (Brown University)
       * [Marshall Tappen](http://www.cs.ucf.edu/~mtappen/) (Amazon)
