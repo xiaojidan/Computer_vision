@@ -14,6 +14,8 @@ Sources:
       * [Taeg Sang ("Tim") Cho](http://people.csail.mit.edu/taegsang/) (Wilmer Hale)
       * [Roger Grosse](http://www.cs.toronto.edu/~rgrosse/) (University of Toronto)
       * [Biliana Kaneva](http://people.csail.mit.edu/biliana/) (MIT)
+      * [Olivier](http://www.cs.cmu.edu/~olivierd/) (CMU)
+      * [Jun Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/) (UC Berkeley)
       * [philipp](http://www.philkr.net/) (UC Berkeley)
       * [Ce Liu](http://people.csail.mit.edu/celiu/) (Google Research)
       * [Michael Rubinstein](http://people.csail.mit.edu/mrub/) (Google Research)
