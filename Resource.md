@@ -16,9 +16,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Tutorials and Talks](#tutorials-and-talks)
  - [Resources for students](#resources-for-students)
  - [Links](#links)
- - [Songs](#songs)
-
-## Books
 
 #### Computer Vision
 * [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/) - Simon J. D. Prince 2012
