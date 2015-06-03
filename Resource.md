@@ -16,9 +16,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Tutorials and Talks](#tutorials-and-talks)
  - [Resources for students](#resources-for-students)
  - [Links](#links)
- - [Songs](#songs)
-
-## Books
 
 #### Computer Vision
 * [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/) - Simon J. D. Prince 2012
@@ -106,8 +103,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (UC Berkeley) 2008
  * [Should I do a PhD in Computer Vision?](https://www.youtube.com/watch?v=M17oGxh3Ny8) - Fatih Porikli (Australian National University)
 
-
 #### Computational Photography
+
  * [Reflections on Image-Based Modeling and Rendering](https://www.youtube.com/watch?v=j90_0Ndk7XM) - Richard Szeliski (Microsoft Research) 2013
  * [Photographing Events over Time](https://www.youtube.com/watch?v=ZvPaHZZVPRk) - William T. Freeman (MIT) 2011
  * [Old and New algorithm for Blind Deconvolution](http://videolectures.net/nipsworkshops2011_weiss_deconvolution/) -  Yair Weiss (The Hebrew University of Jerusalem) 2011
@@ -116,28 +113,33 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Computational Photography](https://www.youtube.com/watch?v=HJVNI0mkmqk) - William T. Freeman (MIT) 2012
 
 #### Learning and Vision
+
  * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision) - William T. Freeman (MIT) 2011
  * [Learning in Computer Vision](http://videolectures.net/mlss08au_lucey_linv/) - Simon Lucey (CMU) 2008
  * [Learning and Inference in Low-Level Vision](http://videolectures.net/nips09_weiss_lil/?q=computer%20vision) - Yair Weiss (The Hebrew University of Jerusalem) 2009
 
 #### Object Recognition
+
  * [Object Recognition](http://research.microsoft.com/apps/video/?id=231358) - Larry Zitnick (Microsoft Research)
  * [Generative Models for Visual Objects and Object Recognition via Bayesian Inference](http://videolectures.net/mlas06_li_gmvoo/?q=Fei-Fei%20Li) - Fei-Fei Li (Stanford University)
 
 
 #### Machine Learning
+
  * [A Gentle Tutorial of the EM Algorithm](http://www-ssli.ee.washington.edu/people/bulyko/papers/em.pdf) - Jeff A. Bilmes (UC Berkeley) 1998
  * [Introduction To Bayesian Inference](http://videolectures.net/mlss09uk_bishop_ibi/) - Christopher Bishop (Microsoft Research) 2009
  * [Support Vector Machines](http://videolectures.net/mlss06tw_lin_svm/) - Chih-Jen Lin (National Taiwan University) 2006
  * [Bayesian or Frequentist, Which Are You? ](http://videolectures.net/mlss09uk_jordan_bfway/) - Michael I. Jordan (UC Berkeley)
 
 #### Optimization
+
  * [Optimization Algorithms in Machine Learning](http://videolectures.net/nips2010_wright_oaml/) - Stephen J. Wright (University of Wisconsin-Madison)
  * [Convex Optimization](http://videolectures.net/mlss07_vandenberghe_copt/?q=convex%20optimization) - Lieven Vandenberghe (University of California, Los Angeles)
  * [Continuous Optimization in Computer Vision](https://www.youtube.com/watch?v=oZqoWozVDVg) - Andrew Fitzgibbon (Microsoft Research)
  * [Beyond stochastic gradient descent for large-scale machine learning](http://videolectures.net/sahd2014_bach_stochastic_gradient/) - Francis Bach (INRIA)
 
 #### Deep Learning
+
  * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn/) - Geoffrey E. Hinton (University of Toronto)
  * [Deep Learning](http://videolectures.net/kdd2014_salakhutdinov_deep_learning/?q=Hidden%20Markov%20model#) -  Ruslan Salakhutdinov (University of Toronto)
  * [Scaling up Deep Learning](http://videolectures.net/kdd2014_bengio_deep_learning/) - Yoshua Bengio (University of Montreal)
@@ -175,6 +177,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [ Large-Scale Texturing of 3D Reconstructions](http://www.gris.informatik.tu-darmstadt.de/projects/mvs-texturing/)
 
 #### Feature Detection and Extraction
+
 * [VLFeat](http://www.vlfeat.org/)
 * [SIFT](http://www.cs.ubc.ca/~lowe/keypoints/) 
   * David G. Lowe, "Distinctive image features from scale-invariant keypoints," International Journal of Computer Vision, 60, 2 (2004), pp. 91-110.
@@ -199,7 +202,7 @@ Non-blind deconvolution
  * [Deep Convolutional Neural Network for Image Deconvolution](http://lxu.me/projects/dcnn/)
  * [Neural Deconvolution](http://webdav.is.mpg.de/pixel/neural_deconvolution/)
 
-Blind deconvolution
+##### Blind deconvolution
  * [Removing Camera Shake From A Single Photograph](http://www.cs.nyu.edu/~fergus/research/deblur.html)
  * [High-quality motion deblurring from a single image](http://www.cse.cuhk.edu.hk/leojia/projects/motion_deblurring/)
  * [Two-Phase Kernel Estimation for Robust Motion Deblurring](http://www.cse.cuhk.edu.hk/leojia/projects/robust_deblur/)
@@ -212,7 +215,8 @@ Blind deconvolution
  * [Edge-based Blur Kernel Estimation Using Patch Priors](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
  * [Blind Deblurring Using Internal Patch Recurrence](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur.html)
 
-Non-uniform Deblurring
+#### Non-uniform Deblurring
+
  * [Non-uniform Deblurring for Shaken Images](http://www.di.ens.fr/willow/research/deblurring/)
  * [Single Image Deblurring Using Motion Density Functions](http://grail.cs.washington.edu/projects/mdf_deblurring/)
  * [Image Deblurring using Inertial Measurement Sensors](http://research.microsoft.com/en-us/um/redmond/groups/ivm/imudeblurring/)
@@ -221,12 +225,14 @@ Non-uniform Deblurring
   
  
 ###### Image Completion
+
  * [GIMP Resynthesizer](http://registry.gimp.org/node/27986)
  * [Priority BP](http://lafarren.com/image-completer/)
  * [ImageMelding](http://www.ece.ucsb.edu/~psen/melding) 
  * [PlanarStructureCompletion](https://sites.google.com/site/jbhuang0604/publications/struct_completion)
 
 ###### Edge-preserving image processing
+
  * [Fast Bilateral Filter](http://people.csail.mit.edu/sparis/bf/)
  * [O(1) Bilateral Filter](http://www.cs.cityu.edu.hk/~qiyang/publications/code/qx.cvpr09.ctbf.zip)
  * [Recursive Bilateral Filtering](http://www.cs.cityu.edu.hk/~qiyang/publications/eccv-12/)
@@ -238,6 +244,7 @@ Non-uniform Deblurring
  * [Guided image filtering](http://research.microsoft.com/en-us/um/people/kahe/eccv10/)
 
 #### Contour Detection and Image Segmentation
+
  * [Mean Shift Segmentation](http://coewww.rutgers.edu/riul/research/code/EDISON/)
  * [Graph-based Segmentation](http://cs.brown.edu/~pff/segment/)
  * [Normalized Cut](http://www.cis.upenn.edu/~jshi/software/)
@@ -252,6 +259,7 @@ Non-uniform Deblurring
  
 
 #### Object Detection
+
  * [INRIA Object Detection and Localization Toolkit](http://pascal.inrialpes.fr/soft/olt/)
  * [Discriminatively trained deformable part models](http://www.cs.berkeley.edu/~rbg/latent/)
  * [VOC-DPM](https://github.com/rbgirshick/voc-dpm)
@@ -273,6 +281,7 @@ Non-uniform Deblurring
 
 
 #### Resource link collection
+
  * [Resources for students](http://people.csail.mit.edu/fredo/student.html) - Frédo Durand (MIT)
  * [Advice for Graduate Students](http://www.dgp.toronto.edu/~hertzman/advice/) - Aaron Hertzmann (Adobe Research)
  * [Graduate Skills Seminars](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/) - Yashar Ganjali, Aaron Hertzmann (University of Toronto)
@@ -280,6 +289,7 @@ Non-uniform Deblurring
  
 
 #### Writing
+
  * [Write Good Papers](http://people.csail.mit.edu/fredo/FredoGoodWriting.pdf) - Frédo Durand (MIT)
  * [Notes on writing](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf) - Frédo Durand (MIT)
  * [How to Write a Bad Article](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf) - Frédo Durand (MIT)
@@ -297,11 +307,13 @@ Non-uniform Deblurring
 
 
 #### Presentation
+
  * [Giving a Research Talk](http://people.csail.mit.edu/fredo/TalkAdvice.pdf) - Frédo Durand (MIT)
  * [How to give a good talk](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/GivingGoodTalks.pdf) - David Fleet (University of Toronto) and Aaron Hertzmann (Adobe Research)
  * [Designing conference posters](http://colinpurrington.com/tips/poster-design) - Colin Purrington
 
 #### Research
+
  * [How to do research](http://people.csail.mit.edu/billf/www/papers/doresearch.pdf) - William T. Freeman (MIT)
  * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Richard Hamming
  * [Warning Signs of Bogus Progress in Research in an Age of Rich Computation and Information](http://yima.csl.illinois.edu/psfile/bogus.pdf) - Yi Ma (UIUC)
@@ -313,10 +325,12 @@ Non-uniform Deblurring
  * [How to Read Academic Papers](http://www.slideshare.net/jbhuang/how-to-read-academic-papers) - Jia-Bin Huang (UIUC)
 
 #### Time Management
+
  * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) - Randy Pausch (CMU)
  
 
 ## Links
+
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [awesome-deep-learning](https://github.com/Ashara12/awesome-deep-learning)
 * [awesome-maching-learning](https://github.com/josephmisiti/awesome-machine-learning)
