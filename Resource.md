@@ -43,8 +43,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 #### Fundamentals
  * [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/ref=sr_1_4?ie=UTF8&qid=1421433773&sr=8-4&keywords=Linear+Algebra+and+Its+Applications) - Gilbert Strang 1995
 
-## Courses
-
 #### Computer Vision
  * [Visual Object and Activity Recognition](https://sites.google.com/site/ucbcs29443/) - Alexei A. Efros and Trevor Darrell (UC Berkeley)
  * [Computer Vision](http://courses.cs.washington.edu/courses/cse455/12wi/) - Steve Seitz (University of Washington)
@@ -100,8 +98,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Visionbib Survey Paper List](http://surveys.visionbib.com/index.html)
  * [Foundations and Trends® in Computer Graphics and Vision](http://www.nowpublishers.com/CGV)
  * [Computer Vision: A Reference Guide](http://link.springer.com/book/10.1007/978-0-387-31439-6)
-
-## Tutorials and talks
 
 #### Computer Vision
 
@@ -193,11 +189,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### Low-level Vision
 
-
-###### Image Denoising
-BM3D, KSVD, 
-
-
 ###### Image Deblurring
 
 Non-blind deconvolution
@@ -226,6 +217,7 @@ Non-uniform Deblurring
  * [Single Image Deblurring Using Motion Density Functions](http://grail.cs.washington.edu/projects/mdf_deblurring/)
  * [Image Deblurring using Inertial Measurement Sensors](http://research.microsoft.com/en-us/um/redmond/groups/ivm/imudeblurring/)
  * [Fast Removal of Non-uniform Camera Shake](http://webdav.is.mpg.de/pixel/fast_removal_of_camera_shake/)
+ * [Joint Static and Dynamic Guidance Filter](http://www.di.ens.fr/willow/research/sdfilter/)
   
  
 ###### Image Completion
@@ -330,8 +322,3 @@ Non-uniform Deblurring
 * [awesome-maching-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 
-## Songs
-* [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
-* [The RANSAC Song](http://danielwedge.com/ransac/)
-
-%
