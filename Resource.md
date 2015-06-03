@@ -110,14 +110,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (UC Berkeley) 2008
  * [Should I do a PhD in Computer Vision?](https://www.youtube.com/watch?v=M17oGxh3Ny8) - Fatih Porikli (Australian National University)
 
-#### 3D Computer Vision
- * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (University of Washington) 2011
- * [Reconstructing the World from Photos on the Internet](https://www.youtube.com/watch?v=04Kgg3QEXFI) - Steve Seitz (University of Washington) 2013
-
-#### Internet Vision
- * [The Distributed Camera](http://www.technologyreview.com/video/426265/meet-2011-tr35-winner-noah-snavely/) - Noah Snavely (Cornell University) 2011
- * [Planet-Scale Visual Understanding](https://www.youtube.com/watch?v=UHkCa9-Z1Ps) - Noah Snavely (Cornell University) 2014
- * [A Trillion Photos](https://www.youtube.com/watch?v=6MWEfpKUfRc) - Steve Seitz (University of Washington) 2013
 
 #### Computational Photography
  * [Reflections on Image-Based Modeling and Rendering](https://www.youtube.com/watch?v=j90_0Ndk7XM) - Richard Szeliski (Microsoft Research) 2013
@@ -136,11 +128,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Object Recognition](http://research.microsoft.com/apps/video/?id=231358) - Larry Zitnick (Microsoft Research)
  * [Generative Models for Visual Objects and Object Recognition via Bayesian Inference](http://videolectures.net/mlas06_li_gmvoo/?q=Fei-Fei%20Li) - Fei-Fei Li (Stanford University)
 
-#### Graphical Models
- * [Graphical Models for Computer Vision](http://videolectures.net/uai2012_felzenszwalb_computer_vision/?q=computer%20vision) - Pedro Felzenszwalb (Brown University) 2012
- * [Graphical Models](http://videolectures.net/mlss09uk_ghahramani_gm/) - Zoubin Ghahramani (University of Cambridge) 2009
- * [Machine Learning, Probability and Graphical Models](http://videolectures.net/mlss06tw_roweis_mlpgm/) - Sam Roweis (NYU) 2006
- * [Graphical Models and Applications](http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models) -  Yair Weiss (The Hebrew University of Jerusalem) 2009
 
 #### Machine Learning
  * [A Gentle Tutorial of the EM Algorithm](http://www-ssli.ee.washington.edu/people/bulyko/papers/em.pdf) - Jeff A. Bilmes (UC Berkeley) 1998
@@ -206,34 +193,10 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### Low-level Vision
 
-###### Stereo Vision
- * [Middlebury Stereo Vision](http://vision.middlebury.edu/stereo/)
- * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stero)
- * [LIBELAS: Library for Efficient Large-scale Stereo Matching](http://www.cvlibs.net/software/libelas/)
- * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset)
-
-###### Optical Flow
- * [Middlebury Optical Flow Evaluation](http://vision.middlebury.edu/flow/)
- * [MPI-Sintel Optical Flow Dataset and Evaluation](http://sintel.is.tue.mpg.de/)
- * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
- * [HCI Challenge](http://hci.iwr.uni-heidelberg.de/Benchmarks/document/Challenging_Data_for_Stereo_and_Optical_Flow/)
- * [Coarse2Fine Optical Flow](http://people.csail.mit.edu/celiu/OpticalFlow/) - Ce Liu (MIT)
- * [Secrets of Optical Flow Estimation and Their Principles](http://cs.brown.edu/~dqsun/code/cvpr10_flow_code.zip)
 
 ###### Image Denoising
 BM3D, KSVD, 
 
-###### Super-resolution
- * [Multi-frame image super-resolution](http://www.robots.ox.ac.uk/~vgg/software/SR/)
- * [Markov Random Fields for Super-Resolution](http://people.csail.mit.edu/billf/project%20pages/sresCode/Markov%20Random%20Fields%20for%20Super-Resolution.html)
- * [Sparse regression and natural image prior](https://people.mpi-inf.mpg.de/~kkim/supres/supres.htm)
- * [Single-Image Super Resolution via a Statistical Model](http://www.cs.technion.ac.il/~elad/Various/SingleImageSR_TIP14_Box.zip)
- * [Sparse Coding for Super-Resolution](http://www.cs.technion.ac.il/~elad/Various/Single_Image_SR.zip)
- * [Patch-wise Sparse Recovery](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
- * [Neighbor embedding](http://www.jdl.ac.cn/user/hchang/doc/code.rar)
- * [Deformable Patches](https://sites.google.com/site/yuzhushome/single-image-super-resolution-using-deformable-patches)
- * [SRCNN](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
- * [A+: Adjusted Anchored Neighborhood Regression](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/index.html)
 
 ###### Image Deblurring
 
@@ -271,20 +234,6 @@ Non-uniform Deblurring
  * [ImageMelding](http://www.ece.ucsb.edu/~psen/melding) 
  * [PlanarStructureCompletion](https://sites.google.com/site/jbhuang0604/publications/struct_completion)
 
-###### Image Retargeting
- * [RetargetMe](http://people.csail.mit.edu/mrub/retargetme/) 
- 
-###### Alpha Matting
- * [Alpha Matting Evaluation](http://www.alphamatting.com/)
- * [Closed-form image matting](http://people.csail.mit.edu/alevin/matting.tar.gz)
- * [Spectral Matting](http://www.vision.huji.ac.il/SpectralMatting/)
- * [Learning-based Matting](http://www.mathworks.com/matlabcentral/fileexchange/31412-learning-based-digital-matting)
- * [Improving Image Matting using Comprehensive Sampling Sets](http://www.alphamatting.com/ImprovingMattingComprehensiveSamplingSets_CVPR2013.zip)
-
-###### Image Pyramid
-* [The Steerable Pyramid](http://www.cns.nyu.edu/~eero/steerpyr/)
-* [CurveLab](http://www.curvelet.org/)
-
 ###### Edge-preserving image processing
  * [Fast Bilateral Filter](http://people.csail.mit.edu/sparis/bf/)
  * [O(1) Bilateral Filter](http://www.cs.cityu.edu.hk/~qiyang/publications/code/qx.cvpr09.ctbf.zip)
@@ -308,36 +257,7 @@ Non-uniform Deblurring
  * [TurboPixels](http://www.cs.toronto.edu/~babalex/research.html)
  * [Entropy Rate Superpixel](http://mingyuliu.net/)
 
-#### Interactive Image Segmentation
- * [SEEDS](http://www.mvdblive.org/seeds/)
- * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
- * [Geodesic Segmentation](http://www.tc.umn.edu/~baixx015/)
- * [Lazy Snapping](http://research.microsoft.com/apps/pubs/default.aspx?id=69040)
- * [Power Watershed](http://powerwatershed.sourceforge.net/)
- * [Geodesic Graph Cut](http://www.adobe.com/technology/people/san-jose/brian-price.html)
- * [Segmentation by Transduction](http://www.cs.cmu.edu/~olivierd/)
-
-#### Video Segmentation
- * [Video Segmentation with Superpixels](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/image-and-video-segmentation/video-segmentation-with-superpixels/)
- * [Efficient hierarchical graph-based video segmentation](http://www.cc.gatech.edu/cpl/projects/videosegmentation/)
- * [Object segmentation in video](http://lmb.informatik.uni-freiburg.de/Publications/2011/OB11/)
- * [ Streaming hierarchical video segmentation](http://www.cse.buffalo.edu/~jcorso/r/supervoxels/)
-
-#### Camera calibration
- * [Camera Calibration Toolbox for Matlab](http://www.vision.caltech.edu/bouguetj/calib_doc/)
- * [Camera calibration With OpenCV](http://docs.opencv.org/trunk/doc/tutorials/calib3d/camera_calibration/camera_calibration.html#)
- * [Multiple Camera Calibration Toolbox](https://sites.google.com/site/prclibo/toolbox)
  
-#### Simultaneous localization and mapping
- * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
- * [openSLAM](https://www.openslam.org/)
- * [RatSLAM](https://code.google.com/p/ratslam/)
-
-#### Single-view Spatial Understanding
- * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
- * [Recovering Spatial Layout](http://web.engr.illinois.edu/~dhoiem/software/counter.php?Down=varsha_spatialLayout.zip) - Varsha Hedau (UIUC)
- * [Geometric Reasoning](http://www.cs.cmu.edu/~./dclee/code/index.html) - David C. Lee (CMU)
- * [RGBD2Full3D](https://github.com/arron2003/rgbd2full3d) - Ruiqi Guo (UIUC)
 
 #### Object Detection
  * [INRIA Object Detection and Localization Toolkit](http://pascal.inrialpes.fr/soft/olt/)
@@ -346,42 +266,6 @@ Non-uniform Deblurring
  * [Histograms of Sparse Codes for Object Detection](http://www.ics.uci.edu/~dramanan/software/sparse/)
  * [R-CNN: Regions with Convolutional Neural Network Features](https://github.com/rbgirshick/rcnn)
  * [SPP-Net](https://github.com/ShaoqingRen/SPP_net)
-
-#### Nearest Neighbor Search
-
-###### General purpose nearest neighbor search
- * [ANN: A Library for Approximate Nearest Neighbor Searching](http://www.cs.umd.edu/~mount/ANN/)
- * [FLANN - Fast Library for Approximate Nearest Neighbors](http://www.cs.ubc.ca/research/flann/)
- * [Fast k nearest neighbor search using GPU](http://vincentfpgarcia.github.io/kNN-CUDA/)
-
-###### Nearest Neighbor Field Estimation
- * [PatchMatch](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/index.php)
- * [Generalized PatchMatch](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php)
- * [Coherency Sensitive Hashing](http://www.eng.tau.ac.il/~simonk/CSH/)
- * [PMBP: PatchMatch Belief Propagation](https://github.com/fbesse/pmbp)
- * [TreeCANN](http://www.eng.tau.ac.il/~avidan/papers/TreeCANN_code_20121022.rar)
-
-#### Visual Tracking
-* [Visual Tracker Benchmark](https://sites.google.com/site/trackerbenchmark/benchmarks/v10)
-* [Visual Tracking Challenge](http://www.votchallenge.net/)
-* [Kanade-Lucas-Tomasi Feature Tracker](http://www.ces.clemson.edu/~stb/klt/)
-* [Online-boosting Tracking](http://www.vision.ee.ethz.ch/boostingTrackers/)
-
-#### Saliency Detection
-
-#### Attributes
-
-#### Action Reconition
-
-#### Egocentric cameras
-
-#### Human-in-the-loop systems
-
-#### Image Captioning
- * [NeuralTalk](https://github.com/karpathy/neuraltalk﻿) - 
-
-#### Optimization
- * [Ceres Solver](http://ceres-solver.org/) - Nonlinear optimization
 
 ## Datasets
 
@@ -395,104 +279,6 @@ Non-uniform Deblurring
  * [CV datasets](http://clickdamage.com/sourcecode/cv_datasets.php)
  * [visionbib](http://datasets.visionbib.com/info-index.html)
 
-#### Low-level Vision
-
-###### Stereo Vision
- * [Middlebury Stereo Vision](http://vision.middlebury.edu/stereo/)
- * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stero)
- * [LIBELAS: Library for Efficient Large-scale Stereo Matching](http://www.cvlibs.net/software/libelas/)
- * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset)
-
-###### Optical Flow
- * [Middlebury Optical Flow Evaluation](http://vision.middlebury.edu/flow/)
- * [MPI-Sintel Optical Flow Dataset and Evaluation](http://sintel.is.tue.mpg.de/)
- * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
- * [HCI Challenge](http://hci.iwr.uni-heidelberg.de/Benchmarks/document/Challenging_Data_for_Stereo_and_Optical_Flow/)
-
-###### Image Super-resolution
- * [Single-Image Super-Resolution: A Benchmark](https://eng.ucmerced.edu/people/cyang35/ECCV14/ECCV14.html)
-
-#### Intrinsic Images
- * [Ground-truth dataset and baseline evaluations for intrinsic image algorithms](http://www.mit.edu/~kimo/publications/intrinsic/)
- * [Intrinsic Images in the Wild](http://opensurfaces.cs.cornell.edu/intrinsic/)
- 
-#### Material Recognition
- * [OpenSurface](http://opensurfaces.cs.cornell.edu/)
- * [Flickr Material Database](http://people.csail.mit.edu/celiu/CVPR2010/)
-
-#### Multi-view Reconsturction
-* [Multi-View Stereo Reconstruction](http://vision.middlebury.edu/mview/)
-
-#### Saliency Detection
-
-#### Visual Tracking
- * [Visual Tracker Benchmark](https://sites.google.com/site/trackerbenchmark/benchmarks/v10)
- * [Visual Tracker Benchmark v1.1](https://sites.google.com/site/benchmarkpami/)
- * [VOT Challenge](http://www.votchallenge.net/)
- * [Princeton Tracking Benchmark](http://tracking.cs.princeton.edu/)
- 
-#### Visual Survelliance
- * [VIRAT](http://www.viratdata.org/)
- * [CAM2](https://cam2.ecn.purdue.edu/)
- 
-#### Saliency Detection
-
-#### Change detection
- * [ChangeDetection.net](http://changedetection.net/)
- 
-#### Visual Recognition
-
-###### Image Classification
- * [The PASCAL Visual Object Classes](http://pascallin.ecs.soton.ac.uk/challenges/VOC/)
- * [ImageNet Large Scale Visual Recognition Challenge](http://www.image-net.org/challenges/LSVRC/2014/)
- 
-###### Scene Recognition
- * [SUN Database](http://groups.csail.mit.edu/vision/SUN/)
- * [Place Dataset](http://places.csail.mit.edu/)
-
-###### Object Detection
- * [The PASCAL Visual Object Classes](http://pascallin.ecs.soton.ac.uk/challenges/VOC/)
- * [ImageNet Object Detection Challenge](http://www.image-net.org/challenges/LSVRC/2014/)
- * [Microsoft COCO](http://mscoco.org/)
- 
-###### Semantic labeling
- * [Stanford background dataset](http://dags.stanford.edu/projects/scenedataset.html)
- * [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
- * [Barcelona Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/)
- * [SIFT Flow Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/siftflow/SiftFlowDataset.zip)
-
-###### Multi-view Object Detection
- * [3D Object Dataset](http://cvgl.stanford.edu/resources.html)
- * [EPFL Car Dataset](http://cvlab.epfl.ch/data/pose)
- * [KTTI Dection Dataset](http://www.cvlibs.net/datasets/kitti/eval_object.php)
- * [SUN 3D Dataset](http://sun3d.cs.princeton.edu/)
- * [PASCAL 3D+](http://cvgl.stanford.edu/projects/pascal3d.html)
- * [NYU Car Dataset](http://nyc3d.cs.cornell.edu/)
-
-###### Fine-grained Visual Recognition
- * [Fine-grained Classification Challenge](https://sites.google.com/site/fgcomp2013/)
- * [Caltech-UCSD Birds 200](http://www.vision.caltech.edu/visipedia/CUB-200.html)
-
-###### Pedestrian Detection
- * [Caltech Pedestrian Detection Benchmark](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
-
-#### Action Recognition
-
-###### Image-based
-
-###### Video-based
- * [HOLLYWOOD2 Dataset](http://www.di.ens.fr/~laptev/actions/hollywood2/)
- * 
- 
-###### Image Deblurring
- * [Sun dataset](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
-
-#### Image Captioning
- * [Flickr 8K](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
- * [Flickr 30K](http://shannon.cs.illinois.edu/DenotationGraph/)
- * [Microsoft COCO](http://mscoco.org/)
-
-## Resources for students
 
 #### Resource link collection
  * [Resources for students](http://people.csail.mit.edu/fredo/student.html) - Frédo Durand (MIT)
