@@ -20,6 +20,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Links](#links)
 
 #### Computer Vision
+
 * [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/) - Simon J. D. Prince 2012
 * [Computer Vision: Theory and Application](http://szeliski.org/Book/) - Rick Szeliski 2010
 * [Computer Vision: A Modern Approach (2nd edition)](http://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X/ref=dp_ob_title_bk) - David Forsyth and Jean Ponce 2011
@@ -30,6 +31,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
 
 #### Machine Learning
+
 * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) - Christopher M. Bishop 2007
 * [Neural Networks for Pattern Recognition](http://www.engineering.upm.ro/master-ie/sacpi/mat_did/info068/docum/Neural%20Networks%20for%20Pattern%20Recognition.pdf) - Christopher M. Bishop 1995
 * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) - Daphne Koller and Nir Friedman 2009
@@ -40,9 +42,11 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen 2014
 
 #### Fundamentals
+
  * [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/ref=sr_1_4?ie=UTF8&qid=1421433773&sr=8-4&keywords=Linear+Algebra+and+Its+Applications) - Gilbert Strang 1995
 
 #### Computer Vision
+
  * [Visual Object and Activity Recognition](https://sites.google.com/site/ucbcs29443/) - Alexei A. Efros and Trevor Darrell (UC Berkeley)
  * [Computer Vision](http://courses.cs.washington.edu/courses/cse455/12wi/) - Steve Seitz (University of Washington)
  * [Visual Recognition](http://www.cs.utexas.edu/~cv-fall2012/schedule.html) - Kristen Grauman (UT Austin)
@@ -55,6 +59,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Advances in Computer Vision](http://6.869.csail.mit.edu/fall14/) - Antonio Torralba and Bill Freeman (MIT)
 
 #### Computational Photography
+
 * [Image Manipulation and Computational Photography](http://inst.eecs.berkeley.edu/~cs194-26/fa14/) - Alexei A. Efros (UC Berkeley)
 * [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/463.html) - Alexei A. Efros (CMU)
 * [Computational Photography](https://courses.engr.illinois.edu/cs498dh3/) - Derek Hoiem (UIUC)
@@ -68,6 +73,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Computational Photography](http://www.cs.toronto.edu/~kyros/courses/2530/) - Kyros Kutulakos (University of Toronto)
 
 #### Machine Learning and Statistical Learning
+
  * [Machine Learning](https://www.coursera.org/course/ml) - Andrew Ng (Stanford University)
  * [Learning from Data](https://work.caltech.edu/telecourse.html) - Yaser S. Abu-Mostafa (Caltech)
  * [Statistical Learning](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) - Trevor Hastie and Rob Tibshirani (Stanford University)
@@ -77,6 +83,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/) - David MacKay (University of Cambridge) 
 
 #### Optimization
+
  * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
  * [Convex Optimization II](http://stanford.edu/class/ee364b/) - Stephen Boyd (Stanford University)
  * [Convex Optimization](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - Stephen Boyd (Stanford University)
@@ -86,6 +93,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 ## Papers
 
 #### Conference papers on the web
+
  * [CVPapers](http://www.cvpapers.com/) - Computer vision papers on the web
  * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/) - Graphics papers on the web
  * [NIPS Proceedings](http://papers.nips.cc/) - NIPS papers on the web
@@ -94,6 +102,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Calendar of Computer Image Analysis, Computer Vision Conferences](http://iris.usc.edu/Information/Iris-Conferences.html) - (USC)
 
 #### Survey Papers
+
  * [Visionbib Survey Paper List](http://surveys.visionbib.com/index.html)
  * [Foundations and Trends® in Computer Graphics and Vision](http://www.nowpublishers.com/CGV)
  * [Computer Vision: A Reference Guide](http://link.springer.com/book/10.1007/978-0-387-31439-6)
@@ -159,6 +168,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [CMU Computer Vision Page](http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/v-source.html) 
 
 #### General Purpose Computer Vision Library
+
 * [Open CV](http://opencv.org/)
 * [SimpleCV](http://simplecv.org/)
 * [VLFeat](http://www.vlfeat.org/)
@@ -166,6 +176,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
 
 #### Multiple-view Computer Vision
+
 * [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
 * [Peter Kovesi's Matlab Functions for Computer Vision and Image Analysis](http://www.csse.uwa.edu.au/~pk/Research/MatlabFns/index.html)
 * [OpenGV ](http://laurentkneip.github.io/opengv/) - geometric computer vision algorithms
@@ -205,6 +216,7 @@ Non-blind deconvolution
  * [Neural Deconvolution](http://webdav.is.mpg.de/pixel/neural_deconvolution/)
 
 ##### Blind deconvolution
+
  * [Removing Camera Shake From A Single Photograph](http://www.cs.nyu.edu/~fergus/research/deblur.html)
  * [High-quality motion deblurring from a single image](http://www.cse.cuhk.edu.hk/leojia/projects/motion_deblurring/)
  * [Two-Phase Kernel Estimation for Robust Motion Deblurring](http://www.cse.cuhk.edu.hk/leojia/projects/robust_deblur/)
@@ -272,6 +284,7 @@ Non-blind deconvolution
 ## Datasets
 
 #### External Dataset Link Collection
+
  * [CV Datasets on the web](http://www.cvpapers.com/datasets.html) - CVPapers
  * [Are we there yet?](http://rodrigob.github.io/are_we_there_yet/build/) - Which paper provides the best results on standard dataset X?
  * [Computer Vision Dataset on the web](http://www.cvpapers.com/datasets.html)
