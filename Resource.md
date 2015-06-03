@@ -101,8 +101,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Foundations and Trends® in Computer Graphics and Vision](http://www.nowpublishers.com/CGV)
  * [Computer Vision: A Reference Guide](http://link.springer.com/book/10.1007/978-0-387-31439-6)
 
-## Tutorials and talks
-
 #### Computer Vision
 
  * [The Three R's of Computer Vision](https://www.youtube.com/watch?v=Mqg6eorYRIQ) - Jitendra Malik (UC Berkeley) 2013
@@ -193,11 +191,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### Low-level Vision
 
-
-###### Image Denoising
-BM3D, KSVD, 
-
-
 ###### Image Deblurring
 
 Non-blind deconvolution
@@ -226,6 +219,7 @@ Non-uniform Deblurring
  * [Single Image Deblurring Using Motion Density Functions](http://grail.cs.washington.edu/projects/mdf_deblurring/)
  * [Image Deblurring using Inertial Measurement Sensors](http://research.microsoft.com/en-us/um/redmond/groups/ivm/imudeblurring/)
  * [Fast Removal of Non-uniform Camera Shake](http://webdav.is.mpg.de/pixel/fast_removal_of_camera_shake/)
+ * [Joint Static and Dynamic Guidance Filter](http://www.di.ens.fr/willow/research/sdfilter/)
   
  
 ###### Image Completion
