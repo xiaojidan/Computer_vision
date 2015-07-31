@@ -228,7 +228,7 @@ Non-blind deconvolution
  * [Unnatural L0 Sparse Representation for Natural Image Deblurring](http://www.cse.cuhk.edu.hk/leojia/projects/l0deblur/)
  * [Edge-based Blur Kernel Estimation Using Patch Priors](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
  * [Blind Deblurring Using Internal Patch Recurrence](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur.html)
- * [Deep Edge-Aware Filters](http://lxu.me/projects/deepeaf/) 
+ * [Deep Edge-Aware Filters](http://lxu.me/projects/deepeaf) 
 
 #### Non-uniform Deblurring
 
