@@ -214,6 +214,7 @@ Non-blind deconvolution
  * [From Learning Models of Natural Image Patches to Whole Image Restoration](http://people.csail.mit.edu/danielzoran/epllcode.zip)
  * [Deep Convolutional Neural Network for Image Deconvolution](http://lxu.me/projects/dcnn/)
  * [Neural Deconvolution](http://webdav.is.mpg.de/pixel/neural_deconvolution/)
+ * [Just Noticeable Defocus Blur Detection and Estimation](http://shijianping.me/jnb/index.html)
 
 ##### Blind deconvolution
 
